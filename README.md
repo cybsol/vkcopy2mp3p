@@ -9,4 +9,4 @@ Authenticated profile in Firefox.
 
 usage
 ===========
-Usage: ./vkcopy2mp3p.py /path/to/dir count_of_songs [PROFILE]
+```./vkcopy2mp3p.py /path/to/dir count_of_songs [PROFILE]```
